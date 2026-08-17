@@ -148,17 +148,15 @@ Hartono, S. (2025)
 
 Journal of Music Theory and Transcultural Music Studies
 
-### Forthcoming Contributions
+### SAGE Research Methods Publications
 
-SAGE Research Methods: Inclusive Research Methodologies (2026)
+Three How-to Guides by Soegiarto Hartono were published in *SAGE Research Methods: Inclusive Research Methodologies* in June 2026.
 
-Accepted contributions:
+1. *Designing Multisensory Music Research for Disability Communities: Jacob's Hand Notation and Embodied Kolintang Pedagogy.*
 
-1. Body-based Music Practice as a Method for Enabling Research Participation in Economically Marginalized Communities
+2. *How to Enable Research Participation Through Body-Based Music: Working with Economically Marginalized Communities.*
 
-2. Directional Chord Symbols and Sumerian Counting as Embodied Tools for Inclusive Research Participation within STEM Music Integration
-
-3. Embodied Musical Practice as a Rigorous Framework for Inclusive and Participatory Research Design
+3. *How to Use Directional Chord Symbols and Sumerian Counting for Inclusive Research Participation in STEM-Music Integration.*
 
 ---
 
