@@ -225,25 +225,58 @@ Harmonia: Journal of Arts Research and Education (Scopus Q1)
 
 Hartono, S. (2025)
 
-*Reclaiming Somatic Intelligence: An Embodied Framework for Transcultural Music Research.*
+*Reclaiming Somatic Intelligence: A Sumerian Minahasan Embodied Framework for Music Education in the AI Era.*
 
 Journal of Music Theory and Transcultural Music Studies
 
 ---
 
-## Forthcoming Contributions
+# SAGE Research Methods Publications
 
-SAGE Research Methods: Inclusive Research Methodologies (Accepted, 2026)
+Three peer-reviewed How-to Guides by Soegiarto Hartono were published in *SAGE Research Methods: Inclusive Research Methodologies* in June 2026.
 
-1. Body-based Music Practice as a Method for Enabling Research Participation in Economically Marginalized Communities
+## 1. Designing Multisensory Music Research for Disability Communities: Jacob's Hand Notation and Embodied Kolintang Pedagogy
 
-2. Directional Chord Symbols and Sumerian Counting as Embodied Tools for Inclusive Research Participation within STEM Music Integration
+SAGE Research Methods: Inclusive Research Methodologies
+Publisher: SAGE Publications Ltd
+Publication date: June 10, 2026
+DOI: https://doi.org/10.4135/9781036247621
 
-3. Embodied Musical Practice as a Rigorous Framework for Inclusive and Participatory Research Design
+This guide presents Jacob's Hand Notation combined with Minahasan Kolintang pedagogy as a practical, multisensory methodology for inclusive music research. Grounded in embodied cognition and Minahasan cosmology, the method maps harmonic functions onto hand positions to make musical relationships accessible through touch and movement.
 
-Additional details:
+Official publication:
 
-publications/forthcoming-sage-guides.md
+https://methods.sagepub.com/how-to-guide/designing-multisensory-disability-jacobs-kolintang-pedagogy
+
+---
+
+## 2. How to Enable Research Participation Through Body-Based Music: Working with Economically Marginalized Communities
+
+SAGE Research Methods: Inclusive Research Methodologies
+Publisher: SAGE Publications Ltd
+Publication date: June 10, 2026
+DOI: https://doi.org/10.4135/9781036249434
+
+This guide introduces Guidonian Hand notation combined with Kalisarmonia as a body-based and participatory research methodology for economically marginalized communities. It demonstrates how embodied musical activities can support inclusive data generation, reflective inquiry, ethical research design, and meaningful participant engagement.
+
+Official publication:
+
+https://methods.sagepub.com/how-to-guide/enable-research-body-based-music-with-marginalized-communities
+
+---
+
+## 3. How to Use Directional Chord Symbols and Sumerian Counting for Inclusive Research Participation in STEM-Music Integration
+
+SAGE Research Methods: Inclusive Research Methodologies
+Publisher: SAGE Publications Ltd
+Publication date: June 10, 2026
+DOI: https://doi.org/10.4135/9781036249465
+
+This guide demonstrates how Directional Chord Symbols (DCS) and Sumerian base-60 counting can be used as embodied methods for inclusive participation in STEM-music research. The approach emphasizes low-cost, multisensory, culturally responsive, and participatory forms of research engagement.
+
+Official publication:
+
+https://methods.sagepub.com/how-to-guide/how-to-use-directional-chord-symbols-sumerian-stem-music
 
 ---
 
@@ -262,7 +295,7 @@ docs/
 └── resources.md
 
 publications/
-└── forthcoming-sage-guides.md
+└── sage-research-methods.md
 
 images/
 └── kalisarmonia-system-architecture.png
@@ -282,7 +315,7 @@ Materials may continue to develop through:
 * academic collaboration
 * educational implementation
 
-As research progresses, documentation may be revised and expanded.
+The repository documents an active research program, while individual frameworks and materials may continue to be revised and expanded as research progresses.
 
 ---
 
@@ -307,12 +340,15 @@ The project encourages:
 Soegiarto Hartono
 
 Email:
+
 [petruskaseke@gmail.com](mailto:petruskaseke@gmail.com)
 
 ORCID:
+
 0009-0002-5648-0261
 
 ResearchGate:
+
 https://www.researchgate.net/profile/Soegiarto-Hartono
 
 ---
